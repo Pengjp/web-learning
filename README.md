@@ -15,3 +15,7 @@ Writing into the browser console, using console.log().
 The search() method cannot take a second start position argument.
 
 The indexOf() method cannot take powerful search values (regular expressions).
+
+toFixed() returns a string, with the number written with a specified number of decimals:
+
+
